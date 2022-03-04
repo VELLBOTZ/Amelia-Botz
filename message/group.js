@@ -71,7 +71,7 @@ displayText: "Oke siap" },
 type: 1 },
 { buttonId: `${prefix}bullyuk ${memNumber}`, 
 buttonText: { 
-displayText: "Bully yuk" }, 
+displayText: "👋Welcome" }, 
 type: 1 } 
  ];         
  
@@ -79,7 +79,7 @@ type: 1 }
 let butOut= [{ 
 buttonId: `y`, 
 buttonText: { 
-displayText: "Nitip gorengan" },
+displayText: "👋Byee" },
 type: 1 }
 ];        
  
